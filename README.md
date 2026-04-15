@@ -35,5 +35,5 @@ We envision a world where every "I ordered that 20 minutes ago" is easily verifi
 
 ```text
 +-----------------------------------------------------------------+
-| CONTRACT ID: [PASTE_YOUR_NEW_CONTRACT_ID_HERE]                  |
+| CCQ44T3SOMXO2W5T3NCDT5F2DPFPBZLJXK56SS3D6FLHEHZIRVKW4OVZ               |
 +-----------------------------------------------------------------+
